@@ -5,7 +5,7 @@
 `Наш слоник явно чем-то напуган... Разберись, в чём дело.`
 
 ## Теги
-#forensics #steganography #beginner
+`#forensics` `#steganography` `#beginner`
 ## Выдать участникам
 [task.png](https://github.com/k10nex/goidactf2024-tasks/blob/main/Forensics/be%20crfl%20wth%20pictrs/Task.png)
 ## Решение
